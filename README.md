@@ -75,18 +75,6 @@ Shows the percentage of students who completed the test preparation course vs th
 
 ---
 
-## 📂 Project Structure
-
-student-performance-analysis/
-├── StudentsPerformance.csv
-├── student_performance.py
-├── avg_scores.png
-├── math_histogram.png
-├── reading_vs_writing.png
-├── prep_pie.png
-└── README.md
-
----
 
 ## 🎯 What This Project Demonstrates
 
