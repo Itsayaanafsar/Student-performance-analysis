@@ -73,7 +73,7 @@ Shows the percentage of students who completed the test preparation course vs th
 -Be displayed on the screen
 -Be saved as PNG files in the project directory
 
-📂 Project Structure
+##📂 Project Structure
 student-performance-analysis/
 ├── StudentsPerformance.csv
 ├── student_performance.py
@@ -83,7 +83,7 @@ student-performance-analysis/
 ├── prep_pie.png
 └── README.md
 
-🎯 What This Project Demonstrates
+##🎯 What This Project Demonstrates
 -Loading and analyzing data using Pandas
 -Creating clean and informative visualizations using Matplotlib
 -Working with a real-world dataset
